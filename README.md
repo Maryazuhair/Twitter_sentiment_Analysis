@@ -19,5 +19,5 @@ The dataset contains tweets that are labeled with their corresponding sentiment 
 -`matploytlib`
 -`seaborn`
 
-##Results
+## Results
 The final model provides a sentiment analysis classifier that can categorize tweets into positive, negative, or neutral sentiments. Detailed performance metrics and visualizations of model accuracy and confusion matrices are provided in the notebook.
